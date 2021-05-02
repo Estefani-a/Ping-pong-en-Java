@@ -1,2 +1,2 @@
 # Ping pong
-Este es un juego simple hecho con Java
+Juego de Ping pong realizado con Java
